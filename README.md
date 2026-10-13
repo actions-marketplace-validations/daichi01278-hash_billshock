@@ -151,7 +151,7 @@ Parsers follow each provider's documented schema. If `billshock check --dry-run`
 
 ## Hosted version
 
-Don't want to manage admin keys in CI? A hosted billshock (no workflow, spend history, email/SMS, more providers) is in the works. [Join the waitlist](https://billshock-1el.pages.dev/#waitlist).
+Don't want to manage admin keys in CI? A hosted billshock (no workflow, spend history, email/SMS, more providers) is in the works. [Join the waitlist](https://billshock-1el.pages.dev/?ref=github#waitlist).
 
 ## License
 
